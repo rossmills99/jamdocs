@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Docs",
+      "topics": [
+        {
+          "title": "First post",
+          "slug": "first"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
